@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Host: avaxhome-mirrors.pw
-Sitemap: http://avaxhome-mirrors.pw/sitemap.xml
